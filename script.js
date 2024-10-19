@@ -1,4 +1,4 @@
-
+/*
 // Get all the buttons that have the class "join-button"
 const joinButtons = document.querySelectorAll('.join-button');
 
@@ -51,6 +51,7 @@ if (guideLink) {
   guideLink.addEventListener('mouseover', () => {
     guideLink.style.textDecoration = 'none'; // Remove underline on hover
   });
+  */
 
   guideLink.addEventListener('mouseout', () => {
     guideLink.style.textDecoration = 'underline'; // Add underline back
