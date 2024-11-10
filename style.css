@@ -59,14 +59,14 @@
   text-transform: capitalize;
   font-size: 12px;
 }
-.email-content {
+.Name-content {
   display: flex;
   align-items: center;
   flex-direction: column;
   margin-top: 30px;
   width: 100%;
 }
-.email-content p {
+.Name-content p {
   font-size: 13px;
 }
 .input-box {
